@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emotional Neglect"
-date:   2023-05-10 18:40:15 +0530
+date:   2023-07-10 18:40:15 +0530
 categories: emotion
 ---
 
