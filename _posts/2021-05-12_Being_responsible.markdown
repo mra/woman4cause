@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Personal responsibility"
-date:   2021-05-12 16:30:15 +0530
+date:   2021-05-12 10:30:15 +0530
 categories: Personal responsibility
 ---
 
